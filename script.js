@@ -9,3 +9,6 @@ alert(num);
 
 let massOne = [1, 2, 3, 4, 5]
 console.log(massOne)
+
+const dlM = massOne.length
+console.log(dlM)
