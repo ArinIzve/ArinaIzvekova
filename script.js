@@ -15,3 +15,4 @@ console.log(dlM)
 
 const two = 2
 alert('Привет')
+alert('Пока')
